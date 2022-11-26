@@ -29,5 +29,5 @@ Here are the following commands that can be used in the system (non case-sensiti
 - **Stats:** print products and number of times they were ordered
 
 
-### Developped Using:
+### Developped With:
 - Java
