@@ -2,7 +2,7 @@
 Simulator of an e-commerce system developed in CPS209 at TMU
 
 
-### How to use:
+### Usage:
 **Run** the **ECommerceUserInterFace.java** file.
 
 Here are the following commands that can be used in the system (non case-sensitive):
