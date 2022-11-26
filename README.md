@@ -1,5 +1,5 @@
 # E-Commerce-Simulator
-Simulator of an e-commerce system developed in CPS209 at TMU
+Simulator of an E-commerce System developed in CPS209 at TMU
 
 
 ### Usage:
