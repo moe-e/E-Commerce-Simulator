@@ -35,5 +35,5 @@ Example:
 
 
 
-### Developped Using:
+### Developed Using:
 - Java
