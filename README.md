@@ -28,7 +28,6 @@ Here are the following commands that can be used in the system (non case-sensiti
 - **OrderItems:** create an order for each item in the cart
 - **Stats:** print products and number of times they were ordered
 
-Example:
 
 
 
